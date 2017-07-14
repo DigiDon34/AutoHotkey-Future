@@ -1,5 +1,5 @@
 # AutoHotkey v1.1 commands translated as functions using v2.0-a API.
-Fork only to have all in one file. You can also use 'MergeLibsInOneFile.ahk' included to merge it yourself from the last version of the original github:
+Fork only to have all in one file. You can also use 'MergeLibsInOneFile.ahk' included to merge it yourself from the last version of the original github: 
 https://github.com/cocobelgica/AutoHotkey-Future
 
 - - -
