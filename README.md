@@ -1,9 +1,11 @@
 # AutoHotkey v1.1 commands translated as functions using v2.0-a API.
+Fork only to have all in one file. You can also use 'MergeLibsInOneFile.ahk' included to merge it yourself from the last version of the original github:
+https://github.com/cocobelgica/AutoHotkey-Future
 
 - - -
 
 ### Installation:
-DIGIDON : YOU CAN INCLUDE THE AHK_v2_Func.ahk single file. It was merged from all files in Lib folder!
+YOU CAN INCLUDE THE AHK_v2_Func.ahk single file. It was merged from all files in Lib folder using 'MergeLibsInOneFile.ahk' script.
 Copy the entire contents of Lib into a [function library folder](https://autohotkey.com/docs/Functions.htm#lib). Preferably in the user library: `%A_MyDocuments%\AutoHotkey\Lib\\`
 
 ### Helpful links:
